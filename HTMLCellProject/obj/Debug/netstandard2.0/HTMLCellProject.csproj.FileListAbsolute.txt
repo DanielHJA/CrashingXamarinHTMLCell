@@ -1,0 +1,14 @@
+/Users/danielhjartstrom/Projects/HTMLCellProject/HTMLCellProject/bin/Debug/netstandard2.0/HTMLCellProject.deps.json
+/Users/danielhjartstrom/Projects/HTMLCellProject/HTMLCellProject/bin/Debug/netstandard2.0/HTMLCellProject.dll
+/Users/danielhjartstrom/Projects/HTMLCellProject/HTMLCellProject/bin/Debug/netstandard2.0/ref/HTMLCellProject.dll
+/Users/danielhjartstrom/Projects/HTMLCellProject/HTMLCellProject/bin/Debug/netstandard2.0/HTMLCellProject.pdb
+/Users/danielhjartstrom/Projects/HTMLCellProject/HTMLCellProject/obj/Debug/netstandard2.0/HTMLCellProject.csprojAssemblyReference.cache
+/Users/danielhjartstrom/Projects/HTMLCellProject/HTMLCellProject/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/danielhjartstrom/Projects/HTMLCellProject/HTMLCellProject/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/danielhjartstrom/Projects/HTMLCellProject/HTMLCellProject/obj/Debug/netstandard2.0/HTMLCellProject.AssemblyInfoInputs.cache
+/Users/danielhjartstrom/Projects/HTMLCellProject/HTMLCellProject/obj/Debug/netstandard2.0/HTMLCellProject.AssemblyInfo.cs
+/Users/danielhjartstrom/Projects/HTMLCellProject/HTMLCellProject/obj/Debug/netstandard2.0/HTMLCellProject.csproj.CoreCompileInputs.cache
+/Users/danielhjartstrom/Projects/HTMLCellProject/HTMLCellProject/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/danielhjartstrom/Projects/HTMLCellProject/HTMLCellProject/obj/Debug/netstandard2.0/HTMLCellProject.dll
+/Users/danielhjartstrom/Projects/HTMLCellProject/HTMLCellProject/obj/Debug/netstandard2.0/ref/HTMLCellProject.dll
+/Users/danielhjartstrom/Projects/HTMLCellProject/HTMLCellProject/obj/Debug/netstandard2.0/HTMLCellProject.pdb
